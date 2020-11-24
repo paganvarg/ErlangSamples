@@ -1,0 +1,6 @@
+-sname gen_server
+
+-setcookie gen_server_cookie
+
++K true
++A30
